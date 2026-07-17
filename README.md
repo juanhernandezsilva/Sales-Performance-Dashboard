@@ -2,6 +2,7 @@
 
 **Business Case:** TodoUno S.A. (Uruguay)
 
+![Sales Performance Dashboard](Images/Dashboard.png)
 
 # Project Overview
 
@@ -81,6 +82,8 @@ All visuals interact dynamically, allowing users to explore the data from differ
 # Data Model
 
 The dashboard follows a **Star Schema**, improving model performance and simplifying analytical calculations.
+
+![Star Schema Data Model](Images/Data_Model.png)
 
 | Table | Type | Description |
 |-------|------|-------------|
